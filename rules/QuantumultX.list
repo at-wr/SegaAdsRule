@@ -1,23 +1,23 @@
-# SegaAdsRule 
+# SegaAdsRule for Quantumult X
 # LICENSE: MIT License
 # URL: https://github.com/AlanYe-Dev/SegaAdsRule
 # Disclaimer: https://github.com/AlanYe-Dev/SegaAdsRule#DISCLAIMER
 
-# HARDlight Domains
-host-suffix, hardlightgames.com, direct
-host, analytics.hardlightgames.com, reject
+# HARDlight
+HOST, analytics.hardlightgames.com, reject
+HOST-SUFFIX, hardlightgames.com, direct
 
-# Sonic Dash 2: Sonic Boom
-host-keyword, app-measurement.com, reject
-host-keyword, ironsrc.mobi, reject
-host-keyword, bidmachine.io, reject
-host-keyword, applvn.com, reject
-host, in.appcenter.ms, reject
-host-keyword, appsflyersdk.com, reject
-host-keyword, appcenter.ms, reject
-host-keyword, appsflyer.com, reject
-host-keyword, applovin.com, reject
-host-keyword, tapjoy.com, reject
-host-keyword, tapjoyads.com, reject
-host-keyword, inner-active.mobi, reject
-host-keyword, supersonicads.com, reject
+# Sonic Mobile Games
+HOST-KEYWORD, app-measurement.com, reject
+HOST-KEYWORD, ironsrc.mobi, reject
+HOST-KEYWORD, bidmachine.io, reject
+HOST-KEYWORD, applvn.com, reject
+HOST, in.appcenter.ms, reject
+HOST-KEYWORD, appsflyersdk.com, reject
+HOST-KEYWORD, appcenter.ms, reject
+HOST-KEYWORD, appsflyer.com, reject
+HOST-KEYWORD, applovin.com, reject
+HOST-KEYWORD, tapjoy.com, reject
+HOST-KEYWORD, tapjoyads.com, reject
+HOST-KEYWORD, inner-active.mobi, reject
+HOST-KEYWORD, supersonicads.com, reject
