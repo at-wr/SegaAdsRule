@@ -1,19 +1,20 @@
 # SegaAdsRule
 This repository contains lists of SEGA Mobile Games' Ads domain.
 
-# Contribute to this project
+## Contribute to this project
 If you know how to fetch ads domains from Sega mobile games, please feel free to [create issues](https://github.com/AlanYe-Dev/SegaAdsRule/issues) or [pull requests](https://github.com/AlanYe-Dev/SegaAdsRule/pulls)! Such actions can help building this project and provide a better experience for Sega mobile gamers who use this project. 😉
 
-# To-do List
-## Automation
+## To-do List
+### Automation
 - [ ] Distribute rules via automated actions
-## Platforms
-### Apple
+### Platforms
+**Apple**
 - [x] [Shadowrocket](https://apps.apple.com/ca/app/shadowrocket/id932747118) (iOS/iPadOS)
 - [x] [Quantumult X](https://apps.apple.com/us/app/quantumult-x/id1443988620) (macOS/iOS/iPadOS/tvOS)
 - [ ] [Surge](https://apps.apple.com/us/app/surge-5/id1442620678) (iOS/iPadOS/tvOS)
 - [ ] [Surge](https://nssurge.com/) (macOS)
-### Android
+
+**Android**
 - [ ] WIP...
 
 
