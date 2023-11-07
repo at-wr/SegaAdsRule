@@ -37,7 +37,7 @@ If you know how to fetch ads domains from Sega mobile games, please feel free to
 ## User Instructions
 ### Apple
 #### Quantumult X
-**Quick Method**: [Click here](quantumult-x:///add-resource?remote-resource=%7B%20%20%20%20%22filter_remote%22%3A%20%5B%20%20%20%20%20%20%20%20%22https%3A%2F%2Fraw.githubusercontent.com%2FAlanYe-Dev%2FSegaAdsRule%2Fmain%2Frules%2FQuantumultX.list%2C%20tag%3DSegaAdsRule%22%20%20%20%20%5D%7D)
+**Quick Method**: [Click here](https://aka.wrye.dev/segaqx)
 
 **Manual Method**:
 1. Click the **Quantumult X logo** (Settings) on bottom-right
