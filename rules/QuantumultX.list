@@ -1,0 +1,23 @@
+# SegaAdsRule 
+# LICENSE: MIT License
+# URL: https://github.com/AlanYe-Dev/SegaAdsRule
+# Disclaimer: https://github.com/AlanYe-Dev/SegaAdsRule#DISCLAIMER
+
+# HARDlight Domains
+host-suffix, hardlightgames.com, direct
+host, analytics.hardlightgames.com, reject
+
+# Sonic Dash 2: Sonic Boom
+host-keyword, app-measurement.com, reject
+host-keyword, ironsrc.mobi, reject
+host-keyword, bidmachine.io, reject
+host-keyword, applvn.com, reject
+host, in.appcenter.ms, reject
+host-keyword, appsflyersdk.com, reject
+host-keyword, appcenter.ms, reject
+host-keyword, appsflyer.com, reject
+host-keyword, applovin.com, reject
+host-keyword, tapjoy.com, reject
+host-keyword, tapjoyads.com, reject
+host-keyword, inner-active.mobi, reject
+host-keyword, supersonicads.com, reject
