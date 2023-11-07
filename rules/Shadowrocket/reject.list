@@ -1,0 +1,22 @@
+# SegaAdsRule for Shadowrocket (Reject)
+# LICENSE: MIT License
+# URL: https://github.com/AlanYe-Dev/SegaAdsRule
+# Disclaimer: https://github.com/AlanYe-Dev/SegaAdsRule#DISCLAIMER
+
+# HARDlight
+DOMAIN, analytics.hardlightgames.com
+
+# Sonic Mobile Games
+DOMAIN-KEYWORD, app-measurement.com
+DOMAIN-KEYWORD, ironsrc.mobi
+DOMAIN-KEYWORD, bidmachine.io
+DOMAIN-KEYWORD, applvn.com
+DOMAIN, in.appcenter.ms
+DOMAIN-KEYWORD, appsflyersdk.com
+DOMAIN-KEYWORD, appcenter.ms
+DOMAIN-KEYWORD, appsflyer.com
+DOMAIN-KEYWORD, applovin.com
+DOMAIN-KEYWORD, tapjoy.com
+DOMAIN-KEYWORD, tapjoyads.com
+DOMAIN-KEYWORD, inner-active.mobi
+DOMAIN-KEYWORD, supersonicads.com

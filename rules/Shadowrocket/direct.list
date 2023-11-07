@@ -1,0 +1,7 @@
+# SegaAdsRule for Shadowrocket (Direct)
+# LICENSE: MIT License
+# URL: https://github.com/AlanYe-Dev/SegaAdsRule
+# Disclaimer: https://github.com/AlanYe-Dev/SegaAdsRule#DISCLAIMER
+
+# HARDlight
+DOMAIN-SUFFIX, hardlightgames.com
